@@ -3,6 +3,8 @@
 ## Purpose
 Define the initial steps to validate and authorize work, align stakeholders, and create a lightweight plan.
 
+Use [Roles & Personas](./octoacme-roles-and-personas.md) and the [Role Interaction & RACI Matrix](./octoacme-role-interaction-and-raci.md) when proposing the initial team and ownership model.
+
 ## When to use
 Whenever a new project idea or feature proposal is ready to be explored.
 

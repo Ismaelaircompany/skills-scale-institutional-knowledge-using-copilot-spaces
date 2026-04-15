@@ -3,6 +3,8 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+Use [Roles & Personas](./octoacme-roles-and-personas.md) and the [Role Interaction & RACI Matrix](./octoacme-role-interaction-and-raci.md) to assign planning ownership and collaborators clearly.
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks

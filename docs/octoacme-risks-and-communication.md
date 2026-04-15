@@ -3,6 +3,8 @@
 ## Purpose
 Explain how to identify, manage, and communicate risks and dependencies.
 
+Use [Roles & Personas](./octoacme-roles-and-personas.md) and the [Role Interaction & RACI Matrix](./octoacme-role-interaction-and-raci.md) to confirm risk ownership, escalation paths, and communication participants.
+
 ## Risk Register
 Maintain a simple table with:
 - ID

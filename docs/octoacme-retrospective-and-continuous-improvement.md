@@ -3,6 +3,8 @@
 ## Purpose
 Capture learnings and convert them into actionable improvements.
 
+Role expectations for retrospective facilitation, participation, and action ownership are defined in [Roles & Personas](./octoacme-roles-and-personas.md) and the [Role Interaction & RACI Matrix](./octoacme-role-interaction-and-raci.md).
+
 ## When
 After each sprint, release, or important milestone. Also after incidents.
 
